@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ericlehmann17
-- 👀 I’m interested in programming (obviously) as well as sports, video games, investing, and the commercial tech world. 
-- 🌱 I’m currently learning front end development skills on my own (react.js), as well as programming methodology and other skills in college.
-- 💞️ I’m looking to collaborate on any projects that seem interesting! My personal skills are mainly in front end development, and I've picked up bits of backend knowledge through my coursework. 
+- Hi, I’m @ericlehmann17
+- I’m interested in programming as well as sports, video games, investing, and the commercial tech world. 
+- I’m currently learning front end development skills on my own (react.js), as well as programming methodology and other skills in college.
+- I’m looking to collaborate on any projects that seem interesting! My personal skills are mainly in front end development, and I've picked up bits of backend knowledge through my coursework. 
 - 📫 How to reach me ... Email: lehmann.eric.j@gmail.com || LinkedIn: www.linkedin.com/in/eric-lehmann-021701/
