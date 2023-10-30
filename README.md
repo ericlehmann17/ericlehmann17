@@ -1,4 +1,3 @@
 - Hi, I’m @ericlehmann17, Software Engineer at Citizens
-- I’m interested in front end development (React) as well as sports, video games, investing, and the commercial tech world. 
-- I’m looking to collaborate on any projects that seem interesting! My personal skills are mainly in front end development, and I've picked up bits of backend knowledge through my coursework. 
+- Interested in the crossovers between retrieval and Generative AI. Researching ways to use Generative AI to improve development workflows and make information more accessible.
 - 📫 How to reach me ... Email: lehmann.eric.j@gmail.com || LinkedIn: www.linkedin.com/in/eric-lehmann-021701/
