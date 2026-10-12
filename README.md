@@ -1,3 +1,3 @@
 - Hi, I’m @ericlehmann17, Software Engineer at Citizens
-- Interested in the crossovers between retrieval and Generative AI. Researching ways to use Generative AI to improve development workflows and make information more accessible.
+- Interested in the crossovers between retrieval and Generative AI. Exploring ways to use Generative AI to improve development workflows and make information more accessible.
 - 📫 How to reach me ... Email: lehmann.eric.j@gmail.com || LinkedIn: www.linkedin.com/in/eric-lehmann-021701/
